@@ -1,3 +1,5 @@
+Leetcode - 1021: https://leetcode.com/problems/remove-outermost-parentheses/
+
 #include <iostream>
 #include <string>
 using namespace std;
